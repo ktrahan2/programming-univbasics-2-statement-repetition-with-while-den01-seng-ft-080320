@@ -4,7 +4,7 @@ while count < 10 do
   count = count - 1
 end
 if count == 1
-    put "Happy New Year!"
+  put "Happy New Year!"
 else
-    put "#{count}"
+  put "#{count}"
 end
